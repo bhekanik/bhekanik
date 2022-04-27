@@ -24,7 +24,7 @@ I was previously a GIS (Geographic Information Systems) Developer at RAMM Techno
 - I'm married to Nobubele, she's a trainee solicitor at Linklaters when she's not being an awesome partner to me.
 - My educational and professional background is in Civil and Water Engineering. I worked as a civil engineer for 5 years before transitioning to GIS and eventually software engineering.
 - I had been accepted for a PhD in Environmental and Chemical Engineering just before I left civil engineering.
-- All my GIS and Software engineering is self taught [community taught](https://www.youtube.com/watch?v=kxgDfOHHadU) mostly through free resources online.
+- All my GIS and Software engineering is self taught or more appropriately I should say [community taught](https://www.youtube.com/watch?v=kxgDfOHHadU). Mostly through free resources online.
 - I've spoken several times in the Gauteng tech meetup scene and at DevConf 2020 and I'm working on being more active in Dev Twitter.
 
 ## Personality Quirks
