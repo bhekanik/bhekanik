@@ -8,4 +8,4 @@
 
 ---
 
-Hi, I'm BK. I'm a Software Engineer at [Anaplan](https://anaplan.com/). Most recently I was a Senior Software Engineer at [Sigma Digital](https://www.sigmadigital.io/), and a GIS Developer at [RAMM Technologies](https://www.ramm.co.za/) and [ESRI South Africa](https://www.esri-southafrica.com/). I write about interesting things I learn on the [Just Reflections newsletter](https://justreflections.bhekani.com/) and recently I started blogging about tech on [my blog](https://blog.bhekani.com). 
+Hi, I'm BK. I'm a Software Engineer at [Contentful](https://contentful.com/). Most recently I was a Senior Software Engineer at [Anaplan](https://anaplan.com), and [Sigma Digital](https://www.sigmadigital.io/) before that. I've also worked as a GIS Developer at [ESRI South Africa](https://www.esri-southafrica.com/) and [RAMM Technologies](https://www.ramm.co.za/). I write about interesting things I learn on the [Just Reflections newsletter](https://justreflections.bhekani.com/) and recently I started blogging about tech on [my blog](https://blog.bhekani.com). 
