@@ -8,7 +8,7 @@ I'm writing this in the hope that we can fast forward through some getting-to-kn
 
 I am really keen to do great work with/for you and I can be extremely, extraordinarily creative and productive under the right conditions.
 
-I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
+I am also very imperfect and I hope that my transparency here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
 
 The creation of this has also helped me to identify and refine my thoughts and values.
 
@@ -16,15 +16,16 @@ This is a living breathing thing and likely incomplete. I update it frequently a
 
 ## My Role
 
-I was previously a GIS (Geographic Information Systems) Developer at RAMM Technologies, GIS Developer at ESRI South Africa, Senior Software Developer at Sigma Digital. I am currently working in the Application Extensions (Apex) tribe at Anaplan working on the Anaplan DocuSign extension.
+My professional background is as a Civil And Water Engineer. I worked for my local Municipality as a water engineer for the first four years of my career. I was also previously a GIS (Geographic Information Systems) Developer at RAMM Technologies and ESRI South Africa, Senior Software Developer at Sigma Digital and Software Engineer at Anaplan. My current role is Senior Software Engineer working in the Commercial Services at Contentful.
 
 ## Me in a few words
 
 - I was born and raised in Bulawayo, Zimbabwe. Some of my family is still there but my parents live in Malawi now.
+- I lived in South Africa for four years when I moved from Zimbabwe and after that I moved to the UK where I live now.
 - My educational and professional background is in Civil and Water Engineering. I worked as a civil engineer for 5 years before transitioning to GIS and eventually software engineering.
-- I had been accepted for a PhD in Environmental and Chemical Engineering just before I left civil engineering.
+- I had been accepted for a PhD in Environmental and Chemical Engineering just before I left civil engineering. My research was on finding efficient ways to extract useful by products from wastewater. (Ask me about this if you aren't sure how to start a conversation with me)
 - All my GIS and Software engineering is self taught or more appropriately I should say [community taught](https://www.youtube.com/watch?v=kxgDfOHHadU). Mostly through free resources online.
-- I've spoken several times in the Gauteng tech meetup scene and at DevConf 2020 and I'm working on being more active in Dev Twitter.
+- I enjoy writing and speaking in public. I've spoken several times in the Johannesburg and London tech meetup scene and at DevConf 2020 and I'm working on being more active in tech spaces online.
 
 ## Personality Quirks
 
