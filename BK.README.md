@@ -29,8 +29,8 @@ My professional background is as a Civil And Water Engineer. I worked for my loc
 
 ## Personality Quirks
 
-- I am an introvert and that means highly stimulating environments can be exhausting for me. However, I still love meeting new people and making new friends (in low stimulation environments). Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement. I really like talking about introversion so if you get me started on this I may go on and on.
-- I love to start new things but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or months before the thing is actually done. Sorry. I’m working on getting better at this.
+- I am an introvert and that means highly stimulating environments can be exhausting for me. However, I still love meeting new people and making new friends (in low stimulation environments). Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quietness with lack of engagement. (I really like talking about introversion and my personal experinces because of it so if you get me started on this I may go on and on.)
+- I love to start new things but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or months before the thing is actually done. I’m working on getting better at this.
 
 ## Known Failure Modes
 
