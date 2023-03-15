@@ -35,7 +35,7 @@ My professional background is as a Civil And Water Engineer. I worked for my loc
 ## Known Failure Modes
 
 - I have a tendency to want to be right: In discussions, I can keep pushing a point because I think it’s right, not because it objectively is. Please call me out on it if you feel this is happening and I will address it.
-- I have had problems in the past with not doing a good job sharing knowledge: I would take certain pieces of complex work because it was easiest for me to do it. This disempowers the team. This prevents you from having the opportunity to grow. This makes me stressed out
+- I have had problems in the past with not doing a good job sharing knowledge: I would take certain pieces of complex work because it was easier for me to just do it. This disempowers the team. This prevents people less familiar with the thing from having the opportunity to grow.
 - I care about my words and endeavour to choose them carefully. I take this too far sometimes, overthinking my words or being overly pedantic.
 - I almost always default to avoiding confrontation. I spend way too much time trying to figure out how to deal with things without direct confrontation. This can waste a lot of time and it's not always possible and confrontation is necessary sometimes (or so I've been told). I'm working on this.
 - People have commented that I like working on too many things at once
