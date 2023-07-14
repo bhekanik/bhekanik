@@ -18,7 +18,7 @@ This is a living breathing thing and likely incomplete. I update it frequently a
 
 ## My Role
 
-My professional background is as a Civil And Water Engineer. I worked for my local Municipality as a water engineer for the first four years of my career. I was also previously a GIS (Geographic Information Systems) Developer at RAMM Technologies and ESRI South Africa, Senior Software Developer at Sigma Digital and Software Engineer at Anaplan. My current role is Senior Software Engineer working in the Commercial Services at Contentful.
+My professional background is as a Civil And Water Engineer. I worked for my local Municipality as a water engineer for the first four years of my career. I was also previously a GIS (Geographic Information Systems) Developer at RAMM Technologies and ESRI South Africa, Senior Software Developer at Sigma Digital and Software Engineer at Anaplan. My current role is Senior Software Engineer at Contentful.
 
 ## Me in a few words
 
