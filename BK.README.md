@@ -1,5 +1,7 @@
 # Hi, I'm BK
 
+My full name is Bhekani Khumalo but most people call me BK. 
+
 When others know things about us, we work better together and save a lot of time and energy. Usually, people only come to know these titbits after working together for a while – and it takes a lot of trial and error.
 
 I'm writing this in the hope that we can fast forward through some getting-to-know-you facets of me that we might miss.
