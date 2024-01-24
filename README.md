@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=bhekanik&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/bhekanik?label=%40bhekanik&style=social"></a>  •
   <a href="https://www.bhekani.com">Website</a> •
   <a href="https://twitter.com/intent/follow?screen_name=bhekanik&tw_p=followbutton">Twitter</a> •
+  <a href="https://linkedin.com/in/bhekanik">Linkedin</a> •
+  <a href="https://justreflections.bhekani.com">Newsletter</a> •
   <a href="https://github.com/bhekanik/bhekanik/blob/master/BK.README.md">Work README</a> •
 </p>
 
